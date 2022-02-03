@@ -1,0 +1,50 @@
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\bin\Debug\Trivia client.exe.config
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\bin\Debug\Trivia client.exe
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\bin\Debug\Trivia client.pdb
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.csprojAssemblyReference.cache
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\MainWindow.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\App.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client_MarkupCompile.cache
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client_MarkupCompile.lref
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\MainWindow.baml
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.g.resources
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia_client.Properties.Resources.resources
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.csproj.GenerateResource.cache
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.csproj.CoreCompileInputs.cache
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.exe
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Trivia client.pdb
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Menu.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Menu.baml
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\WaitingRoom.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\WaitingRoom.baml
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Game_Window.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Game_Window.baml
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Game_Results.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Game_Results.baml
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Best_Results.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\Trivia client\obj\Debug\Best_Results.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\bin\Debug\Trivia client.exe.config
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\bin\Debug\Trivia client.exe
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\bin\Debug\Trivia client.pdb
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.csprojAssemblyReference.cache
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Best_Results.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Game_Results.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Game_Window.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\MainWindow.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Menu.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\WaitingRoom.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\App.g.cs
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client_MarkupCompile.cache
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client_MarkupCompile.lref
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Best_Results.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Game_Results.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Game_Window.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\MainWindow.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Menu.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\WaitingRoom.baml
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.g.resources
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia_client.Properties.Resources.resources
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.csproj.GenerateResource.cache
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.csproj.CoreCompileInputs.cache
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.exe
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia client\obj\Debug\Trivia client.pdb

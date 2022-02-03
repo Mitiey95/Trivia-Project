@@ -1,0 +1,29 @@
+﻿<Window x:Class="Trivia_client.Best_Results"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trivia_client"
+        mc:Ignorable="d"
+        Title="Best_Results" Height="450" Width="400">
+    <Grid>
+        <Label Content="Best Results" FontSize="22" HorizontalAlignment="Left" Margin="138,39,0,0" VerticalAlignment="Top"/>
+
+        <Button Content="Ok"
+                FontSize="22"
+                HorizontalAlignment="Left"
+                Margin="150,340,0,0"
+                VerticalAlignment="Top"
+                Click="Continue"
+                Width="100"/>
+
+        <Label Name="label1" Content="1st:" FontSize="22" HorizontalAlignment="Left" Margin="40,121,0,0" VerticalAlignment="Top" Width="300"/>
+        <Label Name="label2" Content="2nd:" FontSize="22" HorizontalAlignment="Left" Margin="40,180,0,0" VerticalAlignment="Top" Width="300"/>
+        <Label Name="label3" Content="3rd:" FontSize="22" HorizontalAlignment="Left" Margin="40,247,0,0" VerticalAlignment="Top" Width="300"/>
+
+
+
+
+
+    </Grid>
+</Window>

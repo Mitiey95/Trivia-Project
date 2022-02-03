@@ -1,0 +1,40 @@
+﻿<Window x:Class="Trivia_client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trivia_client"
+        mc:Ignorable="d"
+        Title="Regixtretion" Height="450" Width="800" FontSize="20">
+    <Grid>
+        <Button Content="Sign Up"
+                HorizontalAlignment="Left"
+                Margin="540,82,0,0"
+                VerticalAlignment="Top"
+                Width="100"
+                Click="Switch_sign"
+                Name = "sign_button"
+                />
+
+        <Button Content="Done"
+                HorizontalAlignment="Left"
+                Margin="540,224,0,0"
+                VerticalAlignment="Top"
+                Width="100"
+                Click="Done"
+                />
+
+        <TextBox HorizontalAlignment="Left" Name="username_textBox" Height="35" Margin="172,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="54,80,0,0" VerticalAlignment="Top" Width="113"/>
+
+        <TextBox HorizontalAlignment="Left" Name="password_textBox" Height="35" Margin="172,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Label Content="Password:" HorizontalAlignment="Left" Height="35" Margin="54,152,0,0" VerticalAlignment="Top" Width="113"/>
+
+        <TextBox HorizontalAlignment="Left" Name="email_textBox" Height="35" Margin="172,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Email:" Name ="email_label"   HorizontalAlignment="Left" Margin="54,221,0,0" VerticalAlignment="Top" Width="113"/>
+
+        <Label Content="Status:" Foreground="Red" HorizontalAlignment="Left" Margin="172,321,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label Content="..." Name="status_label" HorizontalAlignment="Left" Margin="265,321,0,0" VerticalAlignment="Top" Width="375"/>
+
+    </Grid>
+</Window>
