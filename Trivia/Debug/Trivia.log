@@ -1,0 +1,3 @@
+﻿  TriviaServer.cpp
+C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia\TriviaServer.cpp(13,11): warning C4930: 'DataBase _db(void)': prototyped function not called (was a variable definition intended?)
+  Trivia.vcxproj -> C:\Users\Mitiey\source\repos\11 grade ex\trivia\Trivia\Debug\Trivia.exe
